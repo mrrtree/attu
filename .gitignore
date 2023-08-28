@@ -40,3 +40,5 @@ express/dist
 # client/package.lock.json
 
 coverage
+
+.idea/
